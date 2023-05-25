@@ -61,13 +61,6 @@ routes/
 --| get.js
 ```
 
-generate express Route path:
-```
-/users/
-/users/:id
-/books/:bookId/authors/:authorId
-/
-```
 ### Use middlewares:
 Using under method
 ```js
